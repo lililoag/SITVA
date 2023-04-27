@@ -1,0 +1,27 @@
+INSERT INTO `lineas` (nombre, color, longitud, ruta, capacidad_pasajeros, num_estaciones, tipo) VALUES
+("A", "azúl", 25.8, "Niquia - La Estrella", 41480, 21, "metro"),
+("B", "naranja", 5.5, "San Antonio - San Javier", 16231, 7, "metro"),
+("H", "Fucsia", 1.4, "Oriente - Villa Sierra", 1800, 3, "metro cable"),
+("J", "Amarillo", 2.7, "San Javier - La Aurora", 3000, 4, "metro cable"),
+("K", "Verde claro", 2.07, "Acevedo - Santo Domingo", 3000, 4, "metro cable"),
+("L", "Café", 4.6, "Santo Domingo - Arví", 1200, 2, "metro cable"),
+("M", "Morado", 1.05, "Miraflores - Trece de Noviembre", 2500, 3, "metro cable"),
+("P", "Rojo", 2.8, "Acevedo - El progreso", 4000, 4, "metro cable"),
+("T", "Verde oscuro", 4.2, "San Antonio - Oriente", 3807, 9, "tranvia"),
+("O", "Rosado", 9.2, "Caribe - La Palma", 800, 14, "bus eléctrico"),
+("1", "Verde azúl", 12.5, "U de M - Parque Aranjuez (via Av. del Ferrocarril)", 3270, 20, "metroplus"),
+("2", "Aguamarina", 13.5, "U de M - Parque Aranjuez (via Av. Oriental)", 1417, 20, "metroplus"),
+("3", "Turquesa", 0, "Corredor Sur (en construcción)", 0, 0, "metroplus"),
+("Encicla_Envigado", "Azúl oscuro", 0, "Envigado", 1, 15, "bicicleta"),
+("Encicla_Itaguí", "Azúl oscuro", 0, "Itaguí", 1, 12, "bicicleta"),
+("Encicla_Zona 5", "Azúl oscuro", 0, "Zona 5 Sur-oriental", 1, 8, "bicicleta"),
+("Encicla_Zona 4", "Azúl oscuro", 0, "Zona 4 Centro-occidental", 1, 26, "bicicleta"),
+("Encicla_Zona 1", "Azúl oscuro", 0, "Zona 1 Nor-oriental", 1, 3, "bicicleta"),
+("Encicla_Zona 6", "Azúl oscuro", 0, "Zona 6 Sur-occidental", 1, 11, "bicicleta"),
+("Encicla_Zona 3", "Azúl oscuro", 0, "Zona 3 Centro-oriental", 1, 18, "bicicleta"),
+("Encicla_Sabaneta", "Azúl oscuro", 0, "Sabaneta", 1, 11, "bicicleta"),
+("Encicla_La Estrella", "Azúl oscuro", 0, "La Estrella", 1, 2, "bicicleta"),
+("Encicla_Zona 2", "Azúl oscuro", 0, "Zona 2 Nor-occidental", 1, 2, "bicicleta"),
+("Encicla_Bello", "Azúl oscuro", 0, "Bello", 1, 2, "bicicleta");
+
+
